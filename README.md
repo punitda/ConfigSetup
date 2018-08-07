@@ -1,5 +1,8 @@
 ### Setup steps to config everything on new machine:
+#### Most of setup steps up are picked up from César Ferreira's post on ["What terminal I'm using"](https://medium.com/@cesarmcferreira/what-terminal-am-i-using-cesar-ferreira-2e19e5f58fc5) with some minor changes
+
 ##### Writing this over here so I don't have to open 10 different tabs everytime I upgrade/change machine :stuck_out_tongue:
+
 
 1. Install [oh-my-zsh](https://ohmyz.sh/)
 ``` 
@@ -27,3 +30,4 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
    ```
 4. Create `DotFiles` folder and clone all the .config files, bash/zsh scripts/functions,etc. from the `DotFiles` private repo.
 5. Run symlink setup scripts in that folder and done. :metal: 
+
